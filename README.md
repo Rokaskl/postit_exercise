@@ -71,7 +71,7 @@ This endpoint returns clients from the database. You can use the `skip` and `tak
 
 ### **`POST /clients/{id}/update-post-code`**
 
-This endpoint calls the [PostIt API](https://postit.lt/API/) to update the "PostCode" for the client.
+This endpoint calls the [PostIt API](https://postit.lt/API/) to update the `PostCode` for the client.
 
 ## User Interface
  
